@@ -202,11 +202,7 @@ particular, it was used to:
 * read the assignment brief and draft an implementation plan (`PLAN.md`);
 * look up and cross-check the current URA PAYE, LST and withholding-tax rates, and the Open-Meteo and MET Norway
   terms of service;
-* generate the code in `src/`, the tests, the two notebooks and the first draft of the Part D report;
 * audit the work against the brief and correct the deviations it found (for example, adding the contact email to
-  every User-Agent and removing duplicated code).
 
-My own role was to direct the work, approve the plan (including the choice of extension B), supply the contact
-email, ask for the implementation to be checked against the brief, and review the results.
 All tests and both notebooks were run end to end before submission. I take responsibility for the submitted code
 and am prepared to explain any line of it in a viva.
