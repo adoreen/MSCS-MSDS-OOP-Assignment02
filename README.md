@@ -1,7 +1,7 @@
 # OOP with Python: Assignment 2 (Advent 2026)
 
-**Course:** MSCS & MSDS, OOP with Python
-**Student:** Lilian Katwesige
+**Course:** MSDS, OOP with Python
+**Student:** Doreen Ainembabazi
 **Submission:** two mini-projects, each with a Jupyter notebook, reusable code in `src/`, and tests in `tests/`
 
 | # | Mini-project | Notebook |
@@ -69,12 +69,12 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name advent2026 --display-name "Python (advent2026)"
 ```
 
-**Contact email (Mini-Project 1).** The brief requires your university email in the `User-Agent` of every request,
+**b38632@students.ucu.ac.ug (Mini-Project 1).** The brief requires your university email in the `User-Agent` of every request,
 and it must not be hardcoded. Set it as an environment variable before starting Jupyter:
 
 ```bash
-$env:CONTACT_EMAIL = "your.name@university.ac.ug"     # Windows PowerShell
-export CONTACT_EMAIL="your.name@university.ac.ug"     # macOS/Linux
+$env:CONTACT_EMAIL = "b38632@students.ucu.ac.ug"     # Windows PowerShell
+export CONTACT_EMAIL="b38632@students.ucu.ac.ug"     # macOS/Linux
 ```
 
 If it is not set, the notebook still runs. It prints a warning, identifies itself by application name only, and uses
