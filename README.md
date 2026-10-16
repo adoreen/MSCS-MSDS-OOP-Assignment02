@@ -1,7 +1,7 @@
 # OOP with Python: Assignment 2 (Advent 2026)
 
 **Course:** MSCS & MSDS, OOP with Python
-**Student:** Agaba Allan
+**Student:** Lilian Katwesige
 **Submission:** two mini-projects, each with a Jupyter notebook, reusable code in `src/`, and tests in `tests/`
 
 | # | Mini-project | Notebook |
