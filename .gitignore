@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.hypothesis/
+.ipynb_checkpoints/
+.env
+
+# Course handout (not ours to redistribute)
+Assignment_2_Advent_2026_MiniProjects.pdf
