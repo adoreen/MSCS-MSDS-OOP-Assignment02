@@ -2,7 +2,7 @@
 
 Usage (one request per file, so traffic stays low):
 
-    CONTACT_EMAIL=you@university.ac.ug python scripts/capture_fixtures.py
+    CONTACT_EMAIL=b38632@students.ucu.ac.ug python scripts/capture_fixtures.py
 
 The contact email is required, because both providers must be able to identify the client.
 """
